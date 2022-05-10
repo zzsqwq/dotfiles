@@ -1,4 +1,4 @@
-# zs-conf
+# dotfiles
 zs config repo
 
 # support 
